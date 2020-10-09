@@ -1,0 +1,3 @@
+rootProject.name='SwzLauncher'
+include ':app'
+include ':launchersdk'
